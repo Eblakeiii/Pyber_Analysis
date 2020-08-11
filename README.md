@@ -18,17 +18,17 @@ Looking at the overall weekly fares, the Rural city type is consistently lower i
 # Summary
 The weekly fare data represent the different city types ridership levels.  It shows how less rides are being taken in the areas where theres a lack of public transport, walkability is low and the majority of residents have access to a vehicle.  And conversely, ridership is higher in areas where public transporation is prevalent and walkability is high.  To help mitigate this inversely-related environment, listed below are some recommendations to promote additional drivers and riders.
 
-###1 Offer special monetary incentives to drivers.
--bonus based on achieving certain number of 4 or 5 star rated reviews; 
--exceeding certain number of rides
--working during peak hours
+### 1 Offer special monetary incentives to drivers.
+- bonus based on achieving certain number of 4 or 5 star rated reviews; 
+- exceeding certain number of rides
+- working during peak hours
     
-###2 Offer promotions/discounts to riders.
+### 2 Offer promotions/discounts to riders.
 - discount of fares during non-peak hours
 - frequent ridership program, i.e., take 5 rides, get the 6th free or reduce fare by 50%
 - earn ride points for every ride and the points to be used for future rides or be given as gifts
   
-###3 Conduct a social-media campaign.
+### 3 Conduct a social-media campaign.
 - carpool because it saves money and helps the environment
 - establish relationships with to promote ridership with Pyber such as with 
 * bars/restaurants
