@@ -13,19 +13,26 @@ Week ending: 2019-02-24	419.06	1412.74	2466.29
 
 The week endng 2019-04-14	269.79	784.82	2390.72 show a slight dip in activity (from the previous week) across all city types, particularly in Rurall and Suburban.  One could make an assumption that the weeking leading up to April 15, tax day, was the factor for this drop.  People are not using the ride service as they're otherwise engaged in their tax return preparation.  For a detailed look at the weekly fares for each type of city is shown [here](insert url here).  For the graphical representation, please see this [chart](insert url here)
 
-Looking at the overall weekly fares, the Rural city type is consistently lower in weekly fares than Suburban and Suburban is less than Urban.  It can be assume that those living in the Rural areas have their own transportation as the walkable rating would be low.  Conversely, those living in Urban tend to have less of their transportation as public transit is available and on top of that, the walkability rating would be high.  Suburban areas would be somewhere in the middle, being close enough to access public transportation to a commutable city, but far enough way outside of the ura
-walkability rating would be low
-
-Describe the differences in ride-sharig data among the different city types
-Add url to graph link
-
-
-
+Looking at the overall weekly fares, the Rural city type is consistently lower in weekly fares than Suburban and Suburban is less than Urban.  It can be assume that those living in the Rural areas have their own transportation as the walkable rating would be low.  Conversely, those living in Urban tend to have less of their transportation as public transit is available and on top of that, the walkability rating would be high.  Suburban areas would be somewhere in the middle, being close enough to access public transportation to a commutable city, but far enough way outside of the rural area where  walkability rating would be low.
 
 # Summary
-Provide 3 recommendations to the CEO for addressing any disparities among the city types
--promotions to drivers - bonus based on star rated reviews; number of ride exceed certain level
--promotions/discounts to riders - rush hour surcharge/low time discount
--social campaign to carpool - save the earth/economy and ecology savings
+The weekly fare data represent the different city types ridership levels.  It shows how less rides are being taken in the areas where theres a lack of public transport, walkability is low and the majority of residents have access to a vehicle.  And conversely, ridership is higher in areas where public transporation is prevalent and walkability is high.  To help mitigate this inversely-related environment, listed below are some recommendations to promote additional drivers and riders.
 
+  1 Offer special monetary incentives to drivers.
+    -bonus based on achieving certain number of 4 or 5 star rated reviews; 
+    -exceeding certain number of rides
+    -working during peak hours
+    
+  2 Offer promotions/discounts to riders.
+    -discount of fares during non-peak hours
+    -frequent ridership program, i.e., take 5 rides, get the 6th free or reduce fare by 50%
+    -earn ride points for every ride and the points to be used for future rides or be given as gifts
+  
+  3 Conduct a social-media campaign.
+    -carpool because it saves money and helps the environment
+    -establish relationships with to promote ridership with Pyber
+      bars/restaurants
+      doctors' offices
+      auto mechanics and other vendors where rides would useful
+      
 
