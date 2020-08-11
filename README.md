@@ -32,9 +32,6 @@ The weekly fare data represent the different city types ridership levels.  It sh
   
 ### 3 Conduct a social-media campaign.
 - carpool because it saves money and helps the environment
-- establish relationships with to promote ridership with Pyber such as with 
-*       bars/restaurants
-*       doctors' offices
-*       auto mechanics and other vendors where rides would useful
+- establish relationships with to promote ridership with Pyber such as with 1) bars/restaurants; 2) doctors' offices; 3) auto mechanics and other vendors where rides would useful.
       
 
