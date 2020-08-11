@@ -13,7 +13,7 @@ The trend for all three city types were similar, only the volume of rides/fares 
 
 Fares for the week endng 2019-04-14 (Rural was $269.79, Suburban was $784.82 and Urban was $2,390.72) show a slight dip in activity, from the previous week, across all city types, particularly in Rural and Suburban c ity types.  One could make an assumption that the week leading up to April 15, tax day, was the factor for this drop.  People are not using the ride service as they're otherwise engaged in their tax return preparation.  
 
-For a comprehensive chart of the weekly fares, from January 1, 2019 to April 29, 2019, for each type of city, is shown [here](insert url here).
+For a comprehensive chart of the weekly fares, from January 1, 2019 to April 29, 2019, for each type of city, is shown [here](https://github.com/Eblakeiii/Pyber_Analysis/blob/master/Pyber_fare_summary_Grid.png).
 
 Looking at the overall weekly fares, the Rural city type is consistently lower in weekly fares than Suburban and Suburban is less than Urban.  It can be assume that those living in the Rural areas have their own transportation as the walkable rating would be low.  Conversely, those living in Urban areas will opt for using public transportationas it is more readily available.  Additionally, the Urban walkability rating would be high.  Suburban areas would be somewhere in the middle, being close enough to access public transportation to a commutable city, but far enough way outside of the city limits where walkability rating would be lower.
 
@@ -33,8 +33,8 @@ The weekly fare data represent the different city types ridership levels.  It sh
 ### 3 Conduct a social-media campaign.
 - carpool because it saves money and helps the environment
 - establish relationships with to promote ridership with Pyber such as with 
-* bars/restaurants
-* doctors' offices
-* auto mechanics and other vendors where rides would useful
+*       bars/restaurants
+*       doctors' offices
+*       auto mechanics and other vendors where rides would useful
       
 
